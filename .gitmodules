@@ -1,0 +1,6 @@
+[submodule "clean-route-frontend"]
+	path = clean-route-frontend
+	url = https://github.com/sadityakumar9211/clean-route-frontend
+[submodule "clean-route-backend"]
+	path = clean-route-backend
+	url = https://github.com/sadityakumar9211/clean-route-backend
