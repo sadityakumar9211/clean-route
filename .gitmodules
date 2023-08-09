@@ -4,6 +4,6 @@
 [submodule "clean-route-backend"]
 	path = clean-route-backend
 	url = https://github.com/sadityakumar9211/clean-route-backend
-[submodule "aws-model-deployment"]
-	path = aws-model-deployment
+[submodule "aws-mode-deployment"]
+	path = aws-mode-deployment
 	url = https://github.com/sadityakumar9211/clean-route-aws
