@@ -15,4 +15,4 @@ This project is organized into three distinct sub-repositories, each serving a s
 
 By structuring the project into these component repositories, we ensure a modular and organized approach, making it easier to manage, develop, and deploy each distinct aspect of the project.
 
-All the three repositories are hosted on AWS. View the site (client) at [http://44.212.20.96:3000/](http://44.212.20.96:3000/).
+All the three repositories are hosted on AWS.
