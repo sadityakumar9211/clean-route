@@ -8,7 +8,7 @@ This project is organized into three distinct sub-repositories, each serving a s
    The first sub-repository contains the codebase for the user interface client. This component focuses on delivering an intuitive and engaging user experience.
 
 3. **[Backend Server](https://github.com/sadityakumar9211/clean-route-backend)**:
-   The second sub-repository encompasses the calculation server. This repository is dedicated to handling complex computations and data processing.
+   The second sub-repository encompasses the calculation server (the underlying logic). This repository is dedicated to handling complex computations and data processing.
 
 4. **[Server with Deployed ML models](https://github.com/sadityakumar9211/clean-route-aws):**
    The third sub-repository hosts the deployed machine learning server. Here, the focus is on providing an environment for serving and interacting with machine learning models.
